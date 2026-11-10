@@ -1,76 +1,136 @@
 <div align="center">
-  <h1>Hi, I'm Chirra Pushkar 👋</h1>
-  <h3>AI Systems & Backend Engineer | CSE (AI/ML)</h3>
-  <p>
-    I build production-grade agentic AI pipelines, offline-first edge models, and high-throughput multimedia processing systems. 
-    <br>
-    <em>Focused on reliability, scalability, and self-correcting AI architectures.</em>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Chirra+Pushkar+%F0%9F%91%8B;Building+Self-Correcting+Agentic+AI;GPU-Accelerated+Video+%26+Audio+Pipelines;Smart+India+Hackathon+2025+Finalist;Backend+Systems+%26+Offline-First+Edge+AI" alt="Typing SVG" />
+
+  <p align="center">
+    <strong>AI Systems & Backend Engineer | CSE (AI/ML)</strong>
   </p>
 
-  <p>
-    <a href="https://github.com/Pushkar0655g"><img src="https://img.shields.io/github/followers/Pushkar0655g?label=Followers&style=for-the-badge&color=238636" alt="Followers"></a>
-    <a href="https://github.com/Pushkar0655g?tab=repositories"><img src="https://img.shields.io/github/stars/Pushkar0655g?label=Stars&style=for-the-badge&color=e3b341" alt="Stars"></a>
-    <img src="https://img.shields.io/badge/Status-Building_%26_Optimizing-blue?style=for-the-badge" alt="Status">
+  <p align="center">
+    <a href="https://github.com/Pushkar0655g"><img src="https://img.shields.io/badge/Specialization-Agentic_AI_%26_Systems-0ea5e9?style=for-the-badge&logoColor=white" /></a>
+    <a href="https://github.com/Pushkar0655g/MAITRI-AI-Astronaut-Companion"><img src="https://img.shields.io/badge/Recognition-SIH_2025_Finalist-f59e0b?style=for-the-badge&logoColor=white" /></a>
+    <a href="https://github.com/Pushkar0655g/Vividha_Hub_V2"><img src="https://img.shields.io/badge/Performance-10x_GPU_Optimization-10b981?style=for-the-badge&logoColor=white" /></a>
   </p>
 </div>
 
 ---
 
-### ⚡ Engineering Philosophy
-- 🤖 **Agentic AI & LLM Systems:** Designing self-correcting agents, RAG pipelines with truthfulness verification loops, and automated LLM-as-a-judge benchmarking (LangSmith).
-- 🚀 **Offline-First & Edge AI:** Engineering resilient AI systems for mission-critical, disconnected environments (e.g., space/aerospace).
-- ⚙️ **High-Performance Backend:** Building clean REST APIs, pipeline orchestrators, Dockerized microservices, and CUDA-accelerated workflows for 10x+ throughput gains.
+### 🧬 Architectural Philosophy & Focus
+
+```
+┌─────────────────────────────────────────────────────────────────────────────────┐
+│                           PUSH-KAR // SYSTEM DESIGN                             │
+├─────────────────────────────────────────────────────────────────────────────────┤
+│                                                                                 │
+│   [ Multimodal Audio/Video ] ──► [ GPU Pipeline: CUDA Batching & Separation ]   │
+│                                                │                                │
+│                                                ▼                                │
+│   [ Agentic Reasoning Loops ] ─► [ Closed-Loop: Deterministic Fact-Checking ]  │
+│                                                │                                │
+│                                                ▼                                │
+│   [ Edge / Offline AI ]      ──► [ Zero-Connectivity High-Reliability Embeds ] │
+│                                                │                                │
+│                                                ▼                                │
+│   [ Observability ]          ──► [ LangSmith Benchmarking & LLM-as-Judge ]     │
+│                                                                                 │
+└─────────────────────────────────────────────────────────────────────────────────┘
+```
+
+> *"Deterministic verification over blind probabilistic generation. True reliability in AI begins where unchecked hallucinations are systematically filtered."*
 
 ---
 
-### 🛠️ Tech Stack
-
-| Domain | Technologies |
-| :--- | :--- |
-| **AI / ML & LLMs** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PYTORCH&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LangSmith](https://img.shields.io/badge/LangSmith-0052FF?style=flat-square&logo=langchain&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white) |
-| **Backend & Data** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
-| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
-
----
-
-### 🚀 Featured Engineering Projects
-
-| Project | Impact & Description | Core Stack |
-| :--- | :--- | :--- |
-| [**Climate Policy Briefing Agent**](https://github.com/Pushkar0655g/climate-policy-briefing-agent) | **Closed-loop Agentic AI.** Built a self-correcting pipeline that fetches news, extracts facts, and generates policy briefings. Features automated source-grounded fact-checking, bias auditing, and LangSmith LLM-as-a-judge evaluation. | `Python` `LangChain` `LangSmith` `OpenRouter` `Pydantic` |
-| [**Vividha Hub V2**](https://github.com/Pushkar0655g/Vividha_Hub_V2) | **High-Performance Media Engine.** Speaker-aware video localization featuring voice cloning and vocal/BGM isolation. Optimized multi-stage GPU processing pipelines achieving **10x faster throughput**. | `Python` `PyTorch` `Whisper` `CUDA` `FastAPI` |
-| [**MAITRI AI Companion**](https://github.com/Pushkar0655g/MAITRI-AI-Astronaut-Companion) | **Offline-First Edge AI.** Mission-critical AI astronaut companion system designed for zero-connectivity space environments. **Smart India Hackathon (SIH) 2025 Finalist** (Built in 24 hrs). | `Python` `Edge AI` `Local RAG` `Offline NLP` |
-| [**Smart Dialer**](https://github.com/Pushkar0655g/smartdialer) | **Workflow Automation.** Automated call management and workflow intelligence utility with clean, scalable API interfaces. | `Python` `REST APIs` `Automation` |
-
----
-
-### 🔭 Currently Exploring
-- **Advanced RAG Techniques:** GraphRAG, agentic retrieval, and multi-modal document parsing.
-- **Systems Optimization:** Quantization, vLLM, and optimizing LLM inference latency on consumer GPUs.
-- **Rust for AI Tooling:** Exploring Rust for building high-performance, memory-safe AI backend services.
-
----
-
-### 📈 GitHub Analytics
+### 🏆 GitHub Milestones & Trophies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pushkar0655g&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushkar0655g&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5" height="150" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Pushkar0655g&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
+</div>
+
+---
+
+### 🚀 Highlighted Engineering Deployments
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">🤖 <a href="https://github.com/Pushkar0655g/climate-policy-briefing-agent">Climate Policy Briefing Agent</a></h3>
+      <p>An autonomous, closed-loop agentic briefing pipeline for policy makers. Features automated atomic claim extraction, source-grounded fact-checking, media bias auditing, and self-correcting revision.</p>
+      <ul>
+        <li><b>Self-Correction Loop:</b> Prunes unverified/hallucinated assertions before final document release.</li>
+        <li><b>Evaluation Suite:</b> Fully instrumented with <b>LangSmith</b> (Faithfulness, Bias Neutrality, Conciseness, Source Coverage).</li>
+      </ul>
+      <p><code>Python</code> <code>LangChain</code> <code>LangSmith</code> <code>OpenRouter</code> <code>Pydantic v2</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">🎙️ <a href="https://github.com/Pushkar0655g/Vividha_Hub_V2">Vividha Hub V2</a></h3>
+      <p>Scalable, speaker-aware video dubbing and localization engine with speaker-preserving voice cloning, vocal/BGM isolation, and multilingual synthesis.</p>
+      <ul>
+        <li><b>10x Faster Processing:</b> GPU-optimized multi-stage batching pipeline for complex audio-visual transformations.</li>
+        <li><b>Vocal Integrity:</b> Isolates background acoustics while preserving individual vocal profiles.</li>
+      </ul>
+      <p><code>PyTorch</code> <code>Whisper</code> <code>CUDA</code> <code>FastAPI</code> <code>Audio DSP</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">🛰️ <a href="https://github.com/Pushkar0655g/MAITRI-AI-Astronaut-Companion">MAITRI AI Astronaut Companion</a></h3>
+      <p>Offline-first multimodal AI assistant engineered for mission-critical space environments with zero network connectivity.</p>
+      <ul>
+        <li><b>Recognition:</b> <b>Smart India Hackathon (SIH) 2025 Finalist</b> (Built in a 24-hr sprint).</li>
+        <li><b>Edge Architecture:</b> Local quantized models + RAG for technical procedure navigation.</li>
+      </ul>
+      <p><code>Offline NLP</code> <code>Quantized LLMs</code> <code>Edge RAG</code> <code>Python</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">⚡ <a href="https://github.com/Pushkar0655g/smartdialer">Smart Dialer</a></h3>
+      <p>Automated communication pipeline and workflow management utility delivering robust API integrations and event dispatching.</p>
+      <ul>
+        <li><b>Architecture:</b> Resilient error-handling, webhook orchestration, and telemetry.</li>
+      </ul>
+      <p><code>Python</code> <code>REST APIs</code> <code>Event-Driven</code> <code>Automation</code></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Core Technical Arsenal
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,postgres,linux,bash,git,postman,nodejs,cpp,js&perline=6" alt="Tech Arsenal" />
+</div>
+
+<br/>
+
+<details>
+<summary><b>🔍 Expand Detailed Tech Stack by Domain</b></summary>
+<br/>
+
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **AI / Machine Learning** | PyTorch, LangChain, LangSmith, Whisper, Transformers, RAG, Pydantic, Agentic Workflows, OpenRouter |
+| **Backend & APIs** | FastAPI, Flask, Node.js, RESTful APIs, Webhooks, Microservices |
+| **Databases & Storage** | PostgreSQL, SQLite, Vector Stores, Redis |
+| **Systems & Infrastructure** | Linux / Bash, Docker, CUDA GPU Acceleration, Git, Postman |
+
+</details>
+
+---
+
+### 📊 Real-Time GitHub Activity & Analytics
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pushkar0655g&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pushkar0655g&theme=tokyonight&hide_border=true" height="145" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pushkar0655g&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="155" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pushkar0655g&theme=tokyonight&hide_border=true" height="155" alt="GitHub Streak" />
 </div>
 
 ---
 
-### 📬 Let's Connect & Build
-I'm always open to discussing high-impact AI/ML engineering, backend architecture, and systems design roles.
-
-<p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/Pushkar0655g"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
+<div align="center">
+  <sub>Engineered by <strong>Chirra Pushkar</strong> • Powered by clean architecture, GPU optimization, and verifiable AI</sub>
+</div>
